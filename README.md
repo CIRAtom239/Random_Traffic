@@ -5,4 +5,4 @@ Random_Traffic - this is a program for random generating traffic so your ISP can
 # Download  
 git clone https://github.com/CIRAtom239/Random_Traffic && cd Random_Traffic  
 pip3 install -r requirements.txt  
-python dataswitcher.py  
+python random_traffic.py  
