@@ -1,0 +1,20 @@
+{
+    "max_depth": 25,
+    "min_sleep": 3,
+    "max_sleep": 6,
+    "timeout": false,
+    "root_urls": [
+        "https://ok.ru",
+        "https://vk.com/",
+        "https://github.com/",
+        "https://www.youtube.com/",
+        "https://aliexpress.ru/",
+        "https://www.wildberries.ru/",
+        "https://www.google.com/maps",
+        "https://www.ozon.ru/search/?from_global=true&text=%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8",
+        "https://web.telegram.org/a/",
+        "https://www.youtube.com/",
+        "https://www.twitch.tv/"
+
+    ]
+}
